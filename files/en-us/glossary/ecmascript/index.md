@@ -1,12 +1,1 @@
----
-title: ECMAScript
-slug: Glossary/ECMAScript
-page-type: glossary-definition
----
-
-**ECMAScript** is a scripting language specification on which {{glossary("JavaScript")}} is based. [Ecma International](https://www.ecma-international.org) is in charge of standardizing ECMAScript.
-
-## See also
-
-- [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript) on Wikipedia
-- [ECMAScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+https://www.tiktok.com/@buskibuskiofficialb666?_t=8aqp3iVEsGo&_r=1
